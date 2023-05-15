@@ -28,12 +28,13 @@
 ---
 
 <p align="center">
-  <a href="#tech-stack">My Tech Stack </a> •
-  <a href="#analytics">GitHub Statistics</a> •
-  <a href="#showcase">Project Showcase</a> •
-  <a href="#tech-stack">Tech-Stack</a> •
-  <a href="#before-you-go">Before You Go</a> •
-  <a href="#showcase">Spotify</a>
+  <a href="https://github.com/yet-it-compiles#----pragmatic-and-solution-oriented-front-end-developer-i-approach-complex-development-projects-with-a-pragmatic-and-solution-oriented-mindset-my-passion-for-adhearing-to-the-best-practices-in-the-software-development-lifecycle-drives-me-to-deliver-high-quality-solutions-that-not-only-meet-but-exceed-exepectations------my-experiential-learning-freelance-development-work-and-personal-projects-has-given-me-a-solid-grasp-of-advanced-data-structures-algorithms-and-object-oriented-software-design-patterns-i-am-committed-to-honing-my-skills-and-pursuing-fresh-challenges-all-the-while-striving-to-deliver-effective-impact-in-all-my-software-engineering-work">About Me </a> •
+  <a href="https://github.com/yet-it-compiles#----good-design-is-easier-to-change-than-good-code--">Development Philosophy</a> •
+  <a href="https://github.com/yet-it-compiles#-my-tech-stack-">My Tech Stack </a> •
+  <a href="https://github.com/yet-it-compiles#-github-statistics-">GitHub Statistics</a> •
+  <a href="https://github.com/yet-it-compiles#%EF%B8%8F-project-showcase-">Project Showcase</a> •
+  <a href="https://github.com/yet-it-compiles#-before-you-go-">Before You Go!</a> •
+  <a href="https://github.com/yet-it-compiles#--spotify-playing-">Spotify</a>
 </p>
 
 ---
