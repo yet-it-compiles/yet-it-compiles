@@ -1,30 +1,22 @@
-<!-- Profile Banner -->
-<h1 style="display: flex; justify-content: center; width: 1200px">
-  <a href="[http://www.amitmerchant.com/electron-markdownify](https://github.com/yet-it-compiles/yet-it-compiles)">
-    <img src="https://media.discordapp.net/attachments/1050737481684885554/1106803058295443548/image.png?width=2200&height=900" alt="Markdownify" height="auto" width="auto" >
-  </a>
-</h1>
-
-<!-- |============================= ! Starts The Animated Text Section !  |============================= -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!)]([https://git.io/typing-svg](https://github.com/yet-it-compiles))
-
-<!-- |============================= ! Starts The Brief Overview Section !  |============================= -->
-<div align="center">
-  <h4>
-    Good design is easier to change than good code.
-  </h4>
+<header>
+  <img src="https://github.com/yet-it-compiles/yet-it-compiles/assets/43221618/15e10a62-f655-4033-8982-205b4521c6fd" alt="Github Profile Banner" height="auto" width="auto" >
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!" alt="Freelance Statement - [@Yet-it-Compiles]" height="auto" width="auto" >
+    
+  <div align="center">
+    <h4>
+      Good design is easier to change than good code.
+    </h4>
   <p>
     ~ Robert C. Martin: Clean Code (p. 23).
   </p>
 </div>
 
-<h4 >
-  &nbsp; &nbsp;&nbsp;&nbsp; Pragmatic and solution-oriented front-end developer, I approach complex development projects with a pragmatic and solution-oriented mindset. My passion for adhearing to the best practices in the software development lifecycle drives me to deliver high-quality solutions that not only meet but exceed exepectations.
+<p >
+  &nbsp; &nbsp;&nbsp;&nbsp; Pragmatic and solution-oriented front-end developer, I approach complex development projects with a pragmatic and solution-oriented mindset. My passion for adhering to the best practices in the software development lifecycle drives me to deliver high-quality solutions that not only meet but exceed exepectations.
   <br/>
-  &nbsp; &nbsp;&nbsp;&nbsp; My experiential learning, freelance development work, and personal projects has given me a solid grasp of advanced data structures, algorithms, and object-oriented software design patterns. I am committed to honing my skills and pursuing fresh challenges, all the while striving to deliver effective impact in all my software engineering work.
-</h4>
+</p>
 
-<!-- |============================= ! Starts The TOC Section !  |============================= -->
+<!-- |============================= ! Starts The TOC Section!  |============================= -->
 ---
 
 <p align="center">
@@ -39,43 +31,43 @@
 
 ---
 
-<details>   
+</header>
 
-  <summary><h2>💼 My Tech Stack </h2></summary>
-
-  <!-- |============================= ! Programming Languages !  |============================= -->
+<main>
+  <details>   
+    <summary><h2>💼 My Tech Stack </h2></summary>  
   <br/>
+  
   <h3>👨🏻‍💻 Programming Languages </h3>
 
   <div> 
-
-  <p align="center">
-    <!--5️⃣ JavaScript -->
-    <img alt="MIPS Assembly" src="https://media.discordapp.net/attachments/1050737481684885554/1107105886243147776/javascript-1.png?width=55&height=55"> 
-    <!--1️⃣ Node -->
-    &nbsp; <img src="https://cdn.discordapp.com/attachments/1050737481684885554/1107110147916050552/2560px-Node.png" height="55" width="95" alt="Node logo"/>
-    <!--2️⃣ HTML5 -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" alt="HTML5 logo"  />
-    <!--3️⃣ CSS3 -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" alt="css3 logo"  />
-    <!--4️⃣ SASS -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55" width="55" alt="sSass logo"  />
-    <!--6️⃣ PYTHON -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="Python logo"  />
-    <!--7️⃣ MYSQL -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" width="55" alt="Mysql logo"  />
-    <!--8️⃣ MARKDOWN -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="55" width="55" alt="Markdown logo"  />
-    <!--9️⃣ PHP -->
-    &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" width="55" alt="PHP logo"  />
-  </p>
-
+      <p align="center">
+        <!--5️⃣ JavaScript -->
+        <img alt="MIPS Assembly" src="https://media.discordapp.net/attachments/1050737481684885554/1107105886243147776/javascript-1.png?width=55&height=55"> 
+        <!--1️⃣ Node -->
+        &nbsp; <img src="https://cdn.discordapp.com/attachments/1050737481684885554/1107110147916050552/2560px-Node.png" height="55" width="95" alt="Node logo"/>
+        <!--2️⃣ HTML5 -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" alt="HTML5 logo"  />
+        <!--3️⃣ CSS3 -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" alt="css3 logo"  />
+        <!--4️⃣ SASS -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55" width="55" alt="sSass logo"  />
+        <!--6️⃣ PYTHON -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="Python logo"  />
+        <!--7️⃣ MYSQL -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" width="55" alt="Mysql logo"  />
+        <!--8️⃣ MARKDOWN -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="55" width="55" alt="Markdown logo"  />
+        <!--9️⃣ PHP -->
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" width="55" alt="PHP logo"  />
+    </p>
   </div>
 
-  <!-- |============================= ! Frameworks and Libraries !  |============================= -->
+  <!-- |============================= ! Frameworks and Libraries!  |============================= -->
   <br/>
-  <h3>🎞️ Frameworks and Libraries</h3>
-  <div align="center"> 
+  <section>
+    <h3>🎞️ Frameworks and Libraries</h3>
+    <div align="center"> 
     <!--1️⃣ REACT -->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" width="55" alt="React logo"  />
     <!--2️⃣ MATERIAL UI -->
@@ -87,9 +79,10 @@
     <!--3️⃣ TypeScript -->
     &nbsp; <img src="https://media.discordapp.net/attachments/1050737481684885554/1107111671861870725/disnake-logo.png" height="55" width="55" />
     
+  </section>
   </div>
 
-  <!-- |============================= ! Databases and Cloud Hosting !  |============================= -->
+  <!-- |============================= ! Databases and Cloud Hosting!  |============================= -->
   <br/>
   <h3>🗄️ Databases and Cloud Hosting</h3>
 
@@ -138,7 +131,7 @@
   </div>
   </details>
 
-  <!-- |============================= ! GITHUB STATISTICS !  |============================= -->
+  <!-- |============================= ! GITHUB STATISTICS!  |============================= -->
 <details> 
 
   <summary><h2>📊 GitHub Statistics </h2></summary>
@@ -151,10 +144,10 @@
 
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yet-it-compiles&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
 
-  <!--2️⃣ CONTRIBUTATION CHART -->
+  <!--2️⃣ CONTRIBUTATION CHART 
   <h3> 📈 Contributation Chart </h3>
 
-  ![](https://github-readme-stats.vercel.app/api?username=yet-it-compiles&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://github-readme-stats.vercel.app/api?username=yet-it-compiles&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 
   <!--3️⃣ Most USED LANGUAGES -->
   <h3> 🔥 Development Streak </h3>
@@ -223,36 +216,4 @@
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmxfreestyle257&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&width=433)](https://spotify-github-profile.vercel.app/api/view?uid=bmxfreestyle257&redirect=true)
 
-<!-- |============================= ! Socials !  |============================= -->
-
-
-<!--
-**yet-it-compiles/yet-it-compiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<!--
-**yet-it-compiles/yet-it-compiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</main>
