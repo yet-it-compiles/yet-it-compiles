@@ -45,13 +45,13 @@
         <!--5️⃣ JavaScript -->
         <img alt="MIPS Assembly" src="https://media.discordapp.net/attachments/1050737481684885554/1107105886243147776/javascript-1.png?width=55&height=55"> 
         <!--1️⃣ Node -->
-        &nbsp; <img src="https://cdn.discordapp.com/attachments/1050737481684885554/1107110147916050552/2560px-Node.png" height="55" width="95" alt="Node logo"/>
+        &nbsp; <img src="https://cdn.discordapp.com/attachments/1159524203851169793/1161757732437758015/2560px-Node.png?ex=65397633&is=65270133&hm=f66c8591ced968b92242e1e5428c2bd01416c07727c23618434068c65192baca&" height="55" width="95" alt="Node logo"/>
         <!--2️⃣ HTML5 -->
         &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" alt="HTML5 logo"  />
         <!--3️⃣ CSS3 -->
         &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" alt="css3 logo"  />
         <!--4️⃣ SASS -->
-        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55" width="55" alt="sSass logo"  />
+        &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55" width="55" alt="SASS logo"  />
         <!--6️⃣ PYTHON -->
         &nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="Python logo"  />
         <!--7️⃣ MYSQL -->
