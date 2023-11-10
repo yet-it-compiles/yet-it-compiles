@@ -1,57 +1,46 @@
 <!-- Contains two images: the profile banner and a dynamic typing SVG that introduces the profile owner's roles and a developer statement  -->
 <header>
-	<!-- Profile banner. -->
-	<figure>
-		<img
-			src="https://github.com/yet-it-compiles/yet-it-compiles/assets/43221618/15e10a62-f655-4033-8982-205b4521c6fd"
-			alt="GitHub Profile Banner"
-			height="auto"
-			width="auto"
-			loading="lazy"
-		/>
-		<figcaption>
-			<!-- My Journey as a Software Engineer - [@Yet-it-Compiles] -->
-		</figcaption>
-	</figure>
-	<!-- Dynamic typing developer statement -->
-	<img
-		src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!"
-		alt="Dynamic text showing: 'I am a software engineer. I am a front-end developer. I am a UX designer. And I'm ready to work with you to build your dream application!' [@Yet-it-Compiles]"
-		height="auto"
-		width="auto"
-		loading="lazy"
-	/>
+    <!-- Profile banner. -->
+  <figure>
+    <img src="https://github.com/yet-it-compiles/yet-it-compiles/assets/43221618/15e10a62-f655-4033-8982-205b4521c6fd" alt="GitHub Profile Banner" height="auto" width="auto"  loading="lazy">
+    <figcaption><!-- My Journey as a Software Engineer - [@Yet-it-Compiles] --></figcaption>
+  </figure>
+
+  <!-- Dynamic typing developer statement -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!" alt="Dynamic text showing: 'I am a software engineer. I am a front-end developer. I am a UX designer. And I'm ready to work with you to build your dream application!' [@Yet-it-Compiles]" height="auto" width="auto" loading="lazy">
 </header>
 
+<main role="main">
+    <section aria-labelledby="profile-quote" align="center">
+    <!-- <blockquote cite="https://www.goodreads.com/quotes/625644-good-design-is-easier-to-change-than-good-code"> -->
+      <p>
+        Good design is easier to change than good code.
+      </p>
+      <footer>
+        ~ Robert C. Martin, <cite>Clean Code</cite> (p. 23)
+      </footer>
+    </blockquote>
+  </section>
+
+  <section aria-label="developer-intro">
+    <p>
+      &nbsp; Pragmatic and solution-oriented front-end developer, I approach complex development projects with a pragmatic and solution-oriented mindset. My passion for adhering to the best practices in the software development lifecycle drives me to deliver high-quality solutions that not only meet but exceed expectations.
+    </p>
+  </section>
+</main>
+
+<!-- Defines Readme.md TOC -->
+<hr>
 <nav aria-label="Main Navigation" align="center">
-	<ul>
-		<a href="https://github.com/yet-it-compiles">About Me </a>
-		•
-		<a
-			href="https://github.com/yet-it-compiles#----good-design-is-easier-to-change-than-good-code--"
-			>Development Philosophy</a
-		>
-		•
-		<a href="https://github.com/yet-it-compiles#-my-tech-stack-"
-			>My Tech Stack
-		</a>
-		•
-		<a href="https://github.com/yet-it-compiles#-github-statistics-"
-			>GitHub Statistics</a
-		>
-		•
-		<a href="https://github.com/yet-it-compiles#%EF%B8%8F-project-showcase-"
-			>Project Showcase</a
-		>
-		•
-		<a href="https://github.com/yet-it-compiles#-before-you-go-"
-			>Before You Go!</a
-		>
-		•
-		<a href="https://github.com/yet-it-compiles#--spotify-playing-"
-			>Spotify</a
-		>
-	</ul>
+  <ul >
+    <a href="https://github.com/yet-it-compiles">About Me </a> •
+    <a href="https://github.com/yet-it-compiles#----good-design-is-easier-to-change-than-good-code--">Development Philosophy</a> •
+    <a href="https://github.com/yet-it-compiles#-my-tech-stack">My Tech Stack </a> •
+    <a href="https://github.com/yet-it-compiles#-github-statistics-">GitHub Statistics</a> •
+    <a href="https://github.com/yet-it-compiles#%EF%B8%8F-project-showcase-">Project Showcase</a> •
+    <a href="https://github.com/yet-it-compiles#-before-you-go-">Before You Go!</a> •
+    <a href="https://github.com/yet-it-compiles#--spotify-playing-">Spotify</a>
+  </ul>
 </nav>
 
 <hr />
