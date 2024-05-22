@@ -1,13 +1,10 @@
+![Yet-it-Compiles-GitHub-Banner](https://github.com/yet-it-compiles/yet-it-compiles/assets/43221618/2c07de6d-ad50-466c-b2ea-3f596a438d0b)
+
 <!-- Contains two images: the profile banner and a dynamic typing SVG that introduces the profile owner's roles and a developer statement  -->
 
 <header>
     <!-- Profile Banner -->
-  <figure>
-      <!-- <img src="https://github.com/yet-it-compiles/yet-it-compiles/assets/43221618/15e10a62-f655-4033-8982-205b4521c6fd" alt="GitHub Profile Banner" height="auto" width="auto" loading="lazy"> -->
-      <img src="https://cdn.discordapp.com/attachments/1178246981538291762/1178253526481244230/Yet-it-Compiles-GitHub-Banner.gif?ex=6575791b&is=6563041b&hm=515b5ab045a68fecb0e2c1a73bba9cb9a3bace95888f75ec491e23b593ed4848&" alt="GitHub Profile Banner" height="auto" width="auto" loading="lazy">
-    <figcaption><!-- My Journey as a Software Engineer - [@Yet-it-Compiles] --></figcaption>
-  </figure>
-
+  
   <!-- Dynamic typing developer statement -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!" alt="Dynamic text showing: 'I am a software engineer. I am a front-end developer. I am a UX designer. And I'm ready to work with you to build your dream application!' [@Yet-it-Compiles]" height="auto" width="auto" loading="lazy">
 </header>
