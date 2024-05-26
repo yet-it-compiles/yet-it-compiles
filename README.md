@@ -24,7 +24,7 @@
 
   <section aria-label="developer-intro">
     <p>
-      &nbsp;     Client-focused freelance Full-Stack Developer and UX Designer leveraging React, Node, and database design strategies to develop responsive, user-centric solutions. Approaching both the engineering and application development employing first principles enables me to deliver highly performance-optimized solutions that bridge the client's vision with the user's experience.
+      &nbsp;     ᴀꜱ ᴀ ᴄʟɪᴇɴᴛ-ꜰᴏᴄᴜꜱᴇᴅ ꜰᴜʟʟ-ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ ꜱᴘᴇᴄɪᴀʟɪᴢɪɴɢ ɪɴ ᴜx ᴅᴇꜱɪɢɴ, ɪ ʟᴇᴠᴇʀᴀɢᴇ ᴇxᴘᴇʀᴛɪꜱᴇ ɪɴ ᴛᴇᴄʜɴᴏʟᴏɢɪᴇꜱ ʟɪᴋᴇ ʀᴇᴀᴄᴛ.ᴊꜱ, ɴᴏᴅᴇ, ᴀɴᴅ ᴅᴀᴛᴀʙᴀꜱᴇ ᴅᴇꜱɪɢɴ ᴘʀɪɴᴄɪᴘʟᴇꜱ ᴛᴏ ᴇɴɢɪɴᴇᴇʀ ʀᴇꜱᴘᴏɴꜱɪᴠᴇ, ᴜꜱᴇʀ-ᴄᴇɴᴛʀɪᴄ ꜱᴏʟᴜᴛɪᴏɴꜱ. ᴀᴘᴘʀᴏᴀᴄʜɪɴɢ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴘᴍᴇɴᴛ ᴘʀᴏᴄᴇꜱꜱ ᴡɪᴛʜ ꜰɪʀꜱᴛ ᴘʀɪɴᴄɪᴘʟᴇ ʀᴇᴀꜱᴏɴɪɴɢ ᴇᴍᴘᴏᴡᴇʀꜱ ᴍᴇ ᴛᴏ ᴅᴇʟɪᴠᴇʀ ʜɪɢʜʟʏ ᴏᴘᴛɪᴍɪᴢᴇᴅ ꜱᴏʟᴜᴛɪᴏɴꜱ ᴛʜᴀᴛ ʙʀɪᴅɢᴇ ᴛʜᴇ ᴄʟɪᴇɴᴛꜱ ᴠɪꜱɪᴏɴ ᴡɪᴛʜ ᴛʜᴇ ᴜꜱᴇʀꜱ ᴇxᴘᴇʀɪᴇɴᴄᴇ, ᴜɴᴅᴇʀꜱᴄᴏʀɪɴɢ ᴍʏ ᴄᴏᴍᴍɪᴛᴍᴇɴᴛ ᴛᴏ ᴇꜰꜰɪᴄᴇɴᴄʏ, ᴀɴᴅ ᴀᴅᴀᴘᴛᴀʙɪʟɪᴛʏ ᴛʜʀᴏᴜɢʜ ᴛʜᴇ ᴘʀᴏᴊᴇᴄᴛꜱ ʟɪꜰᴇᴄʏᴄʟᴇ.
     </p>
   </section>
 </section>
