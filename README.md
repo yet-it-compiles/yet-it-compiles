@@ -225,8 +225,9 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=yet-it-compiles&theme=radical&hide_border=false" alt="">
       <br/>
       <h3>
-        📊 This Week I Spent My Time On
+        📊 How I Spent My Time This Week
       </h3>
+      <p>Time Programming: </p> <a href="https://wakatime.com/@900d093a-59cb-4186-aa67-5d97b0eb1066"><img src="https://wakatime.com/badge/user/900d093a-59cb-4186-aa67-5d97b0eb1066.svg" alt="Total time coded since May 12 2023" /></a>
       <img alt="yet-it-compiles Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=yet-it-compiles&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
     </section>
   </details>
@@ -260,17 +261,10 @@
     <summary><h2>🫠 Before You Go! </h2></summary>
     <section style="display: flex; justify-content: center;">
       <a href="https://github.com/yet-it-compiles/Stockonix-Tracker" target="_blank">
-        <img align="center" src="https://cdn.discordapp.com/attachments/1178246981538291762/1178248318955036693/Yet-it-Compiles-Before-You-Go-Transparent.png?ex=65757442&is=6562ff42&hm=f6d6f2f019c518a1ffe8219a30904ad13b55974cab4839494fa8e79feab15e22&" />
+        <img align="center" src="https://media.discordapp.net/attachments/1232053257036238992/1233691441616785470/Yet-it-Compiles-Before-You-Go-Transparent.png?ex=673eeab0&is=673d9930&hm=64519ed98cf849c3577416d0ed89f28a882e1f6a6a9c6ce2476da59f0c6fc0aa&=&format=webp&quality=lossless&width=468&height=468" />
       </a>
     </section>
   </details>
-  <br/>
+  <br/> 
   <!-- 🎧 SPOTIFY 🎧 -->
-  <section>
-    <h2>
-      🎧 Spotify Playing
-    </h2>
-
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=bmxfreestyle257&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true&width=433)](https://spotify-github-profile.vercel.app/api/view?uid=bmxfreestyle257&redirect=true)
-  </section>
 </main>
