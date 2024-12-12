@@ -4,8 +4,6 @@
   alt="Yet-it-Compiles GitHub Banner">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!"
   alt="Dynamic text animation: I am a software engineer. I am a front-end developer. I am a UX designer. I'm ready to work with you to build your dream application!"
-
-
   <section aria-labelledby="profile-quote" id="development-philosophy">
     <blockquote align="center">
       <p>"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable them to 'make the invisible visible."</p>
@@ -25,14 +23,14 @@
 <hr>
 
 <section align="center">
-  <nav>
-    <a href="#about-me"><img src="https://img.shields.io/badge/About%20Me-Informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="About Me"></a>
-    <a href="#development-philosophy"><img src="https://img.shields.io/badge/Development%20Philosophy-Important?style=flat&logo=markdown&logoColor=white&color=blue" alt="Development Philosophy"></a>
-    <a href="#my-tech-stack"><img src="https://img.shields.io/badge/My%20Tech%20Stack-Tools?style=flat&logo=visual-studio-code&logoColor=white&color=orange" alt="My Tech Stack"></a>
-    <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub%20Statistics-Stats?style=flat&logo=github&logoColor=white&color=yellow" alt="GitHub Statistics"></a>
-    <a href="#project-showcase"><img src="https://img.shields.io/badge/Project%20Showcase-Projects?style=flat&logo=github&logoColor=white&color=brightgreen" alt="Project Showcase"></a>
-    <a href="#before-you-go"><img src="https://img.shields.io/badge/Before%20You%20Go-Note?style=flat&logo=github&logoColor=white&color=red" alt="Before You Go"></a>
-    <a href="#collaborate"><img src="https://img.shields.io/badge/Looking%20to%20Collaborate-Collaboration?style=flat&logo=handshake&logoColor=white&color=9333EA" alt="Looking to Collaborate"></a>
+  <nav aria-label="Quick Links" style="text-align: center;">
+    <a href="#about-me"><img src="https://img.shields.io/badge/About%20Me-Informational?style=flat&logo=readme&logoColor=white&color=2bbc8a"alt="About Me: Learn more about the developer"></a>
+    <a href="#philosophy"><img src="https://img.shields.io/badge/Development%20Philosophy-Principles?style=flat&logo=codeproject&logoColor=white&color=blue"alt="Development Philosophy: The principles guiding this developer's work"></a>
+    <a href="#my-tech-stack"><img src="https://img.shields.io/badge/My%20Tech%20Stack-Tools?style=flat&logo=pcgamingwiki&logoColor=white&color=orange" alt="My Tech Stack: Explore the technologies and tools used by this developer"></a>
+    <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub%20Statistics-Stats?style=flat&logo=chartdotjs&logoColor=white&color=yellow"alt="GitHub Statistics: View performance metrics"></a>
+    <a href="#project-showcase"><img src="https://img.shields.io/badge/Project%20Showcase-Portfolio?style=flat&logo=rocket&logoColor=white&color=brightgreen" alt="Project Showcase: Highlights of top projects"></a>
+    <a href="#before-you-go"><img src="https://img.shields.io/badge/Before%20You%20Go-Reminder?style=flat&logo=undertale&logoColor=white&color=red"alt="Before You Go: Important information before you leave"></a>
+    <a href="#collab"><img src="https://img.shields.io/badge/Looking%20to%20Collaborate-Collaboration?style=flat&logo=wechat&logoColor=white&color=9333EA"alt="Looking to Collaborate: Connect for professional collaborations"></a>
   </nav>
 </section>
 
@@ -45,96 +43,22 @@
     </summary>
     <h3>👨🏻‍💻 Programming Languages</h3>
       <section align="center">
-        &nbsp;<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65"/>
-          <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg"
-        height="55"
-        width="55"
-        alt="Node logo"
-        />
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        height="55"
-        width="55"
-        alt="HTML5 logo"
-        />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="55" width="55" alt="Node logo"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" width="55" alt="HTML logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        height="55"
-        width="55"
-        alt="CSS3 logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="55" width="55" alt="CSS3 logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"
-        height="55"
-        width="55"
-        alt="SASS logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="55" width="55" alt="SASS logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-        height="55"
-        width="55"
-        alt="Python logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" width="55" alt="Python logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-        height="55"
-        width="55"
-        alt="MySql logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" width="55" alt="MySql logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"
-        height="55"
-        width="55"
-        alt="Markdown logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="55" width="55" alt="Markdown logo"/>
         &nbsp;
-        <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        height="55"
-        width="55"
-        alt="PHP logo"
-        />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="55" width="55" alt="PHP logo"/>
       </section>
-      
-  <br />
-
-  <!-- 🎞️ Frameworks and Libraries 🎞️ -->
-  <h3>🎞️ Frameworks and Libraries</h3>
-  <section align="center">
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-    height="55"
-    width="55"
-    alt="React logo"
-    />
-    &nbsp;
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg"
-    height="55"
-    width="55"
-    alt="Material UI logo"
-    />
-    &nbsp;
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg"
-    height="55"
-    width="55"
-    alt="Discord.js logo"
-    />
-    &nbsp;
-    <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
-    height="55"
-    width="55"
-    alt="TypeScript logo"
-    />
-  </section>
   
   <br/>
   
@@ -174,10 +98,7 @@
       <h3>⌚ How I Spend My Time</h3>
       <!--WakaTime-->
       <h2>Time Programming This Week: 
-        <img src="https://wakatime.com/badge/user/900d093a-59cb-4186-aa67-5d97b0eb1066.svg" alt="Total time coded since May 12 2023" /> </br> Time Programming This Year: <a href="https://github.com/yourusername">
-  <img src="https://img.shields.io/badge/Wakkatime-613 hrs 08 mins-blue?logo=wakatime" alt="GitHub Badge">
-</a>
-      </h2>
+        Time Programming This Year: <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Wakkatime-613 hrs 08 mins-blue?logo=wakatime" alt="GitHub Badge"></a>
       </h2>
       <br/>
       <!--Most Used Languages -->
@@ -185,7 +106,7 @@
       <br/>
       <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
         <!--🔥 Development Streak -->
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yet-it-compiles&theme=radical&hide_border=false" alt="" style="width: 48%; height: 200px;" />
+         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yet-it-compiles&theme=radical&hide_border=false" alt="" style="width: 48%; height: 200px;" />
         <!--🎓 Hat -->
         <img src="https://github-readme-stats.vercel.app/api?username=yet-it-compiles&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="" " />
       </div>
@@ -209,44 +130,41 @@
     </section>
     
   </details>
-  <!-- BEFORE YOU GO -->
-  <details id="before-you-go">
-    <summary><h2>🫠 Before You Go </h2></summary>
-    <section style="display: flex; justify-content: center;">
-      <a href="https://github.com/yet-it-compiles/Stockonix-Tracker" target="_blank">
-        <img align="center" src="https://github.com/yet-it-compiles/yet-it-compiles/blob/main/assets/Yet-it-Compiles-Before-You-Go-Transparent.png?ex=673eeab0&is=673d9930&hm=64519ed98cf849c3577416d0ed89f28a882e1f6a6a9c6ce2476da59f0c6fc0aa&=&format=webp&quality=lossless&width=468&height=468" />
-      </a>
-    </section>
-  </details>
-  
+    
   <!-- Colloboration -->
   <details id="looking-to-collaborate">
-    <summary><h2>🚀 Looking To Collaborate?</h2></summary>
-    <p>Whether you’re seeking a results-driven professional or looking to collaborate with a full-stack developer and UX/UI designer to bring an idea to life, solve complex technical challenges, or enhance and refine an existing project, I’m here to help. I excel at quickly assimilating into a team’s culture and aligning with its objectives, or supporting entrepreneurs in transforming their visions into scalable, performance-oriented, and community-engaging solutions. Here’s how I can:</p>
-    <ul>
-      <li> <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="30px" height="30px" alt="JumpingStar"></a> <strong>Expertise You Can Trust:</strong> I’m not just a developer or UI designer—I’m a strategic problem solver, committed to helping validate your ideas, analyze their potential, and bring them to life optimized to your goals, and the projects long-term success. From concept to deployment, I provide detailed project roadmaps, transparent communication, and innovative solutions tailored to your needs.</li>
-      <li><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="30px" height="30px"> <strong>Collaborative With Purpose:</strong> I specialize in creating user-focused applications with a strong emphasis on design, functionality, and scalability. Whether you're starting from scratch or refining an existing project, I bring a results-oriented approach while tailoring the solution for maximum community enguagement to every collaboration.</li>
-      <li><a href="https://emoji.gg/emoji/14169-iphone"><img src="https://cdn3.emoji.gg/emojis/14169-iphone.gif" width="30px" height="30px" alt="iPhone"></a><strong>Lets Connect!  <br> I'd love to hear abour your project, and how you feel I could help. Reach out via <a href="mailto:Yet.it.Compiles.LLC@Gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/tyler-unsworth-9385a8183/">LinkedIn</a> to discuss how we can work together to achieve bringing your vision to life.
-      </li> 
-    </ul>
-    <p>Thank you for visiting—I’m excited about the prospect of contributing to your team or project and working together to achieve success.</p>
-        <a href="https://www.linkedin.com/in/tyler-unsworth-9385a8183/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:Yet.it.Compiles.LLC@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
-  </details>
-  
+  <summary><h2>🚀 Ready To Connect?</h2></summary>
+  <p>Are you seeking a results-driven professional or a versatile full-stack developer and UX/UI designer? Whether you’re looking to bring an idea to life, solve complex technical challenges, or elevate an existing project, I’m here to help. My expertise lies in seamlessly integrating into a team’s culture, aligning with its goals, and supporting entrepreneurs in transforming their visions into scalable, high-performing, and community-engaging solutions. Here’s what I offer:</p>
+  <ul>
+    <li>
+      <a href="https://emoji.gg/emoji/93619-jumpingstar"><img src="https://cdn3.emoji.gg/emojis/93619-jumpingstar.gif" width="30px" height="30px" alt="JumpingStar"></a> 
+      <strong>Expertise You Can Rely On:</strong> 
+      I’m more than just a developer or designer—I’m a strategic thinker who applies first-principles reasoning to deliver innovative, high-impact solutions. By breaking down challenges in the beginning, to deliver optimized solutions immediately paving the foundation for success through the development lifecycle.
+    <li>
+      <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="30px" height="30px" alt="Handshake"> 
+      <strong>Purpose-Driven Collaboration:</strong> 
+      My expertise is grounded in designing user-focused applications blending modern aesthetics, user-engaging functionality, and scalability. Whether building from the ground up or enhancing an existing project, I bring a results-driven approach to deliver solutions that bridges the projects vision with the users needs. 
+    </li>
+    <li>
+      <a href="https://emoji.gg/emoji/14169-iphone"><img src="https://cdn3.emoji.gg/emojis/14169-iphone.gif" width="30px" height="30px" alt="iPhone"></a>
+      <strong>Let’s Connect!</strong><br> 
+      I’d love to learn about your project and discuss how I can help bring your vision to life. Reach out via <a href="mailto:Yet.it.Compiles.LLC@Gmail.com">email</a> or connect on <a href="https://www.linkedin.com/in/tyler-unsworth-9385a8183/">LinkedIn</a> to explore how we can collaborate to achieve exceptional results.
+    </li>
+  </ul>
+  <a href="https://www.linkedin.com/in/tyler-unsworth-9385a8183/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="mailto:Yet.it.Compiles.LLC@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>&nbsp;
+</details>
+
+<!-- BEFORE YOU GO -->
+<details id="before-you-go">
+  <summary><h2>🫠 Wait! Before You Go! </h2></summary>
+  <section style="display: flex; justify-content: center;">
+    <a href="https://github.com/yet-it-compiles/Stockonix-Tracker" target="_blank">
+      <img align="center" src="https://github.com/yet-it-compiles/yet-it-compiles/blob/main/assets/Yet-it-Compiles-Before-You-Go-Transparent.png?ex=673eeab0&is=673d9930&hm=64519ed98cf849c3577416d0ed89f28a882e1f6a6a9c6ce2476da59f0c6fc0aa&=&format=webp&quality=lossless&width=468&height=468" />
+    </a>
+  </section>
+</details>
   <footer id="cta-footer" align="center">
-    <div align="center">
-      <a href="#top">
-        <button>
-        🔝 Back to Top
-        </button>
-      </a>
-    </div>
+    <div align="center"><a href="#top"><button>🔝 Back to Top</button></a></div>
   </footer>
 </main>
-
-
-
-
-
-
