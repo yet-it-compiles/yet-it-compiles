@@ -26,9 +26,9 @@
   <nav aria-label="Quick Links" style="text-align: center;">
     <a href="#about-me"><img src="https://img.shields.io/badge/About%20Me-Informational?style=flat&logo=readme&logoColor=white&color=2bbc8a"alt="About Me: Learn more about the developer"></a>
     <a href="#philosophy"><img src="https://img.shields.io/badge/Development%20Philosophy-Principles?style=flat&logo=codeproject&logoColor=white&color=blue"alt="Development Philosophy: The principles guiding this developer's work"></a>
-    <a href="#my-tech-stack"><img src="https://img.shields.io/badge/My%20Tech%20Stack-Tools?style=flat&logo=pcgamingwiki&logoColor=white&color=orange" alt="My Tech Stack: Explore the technologies and tools used by this developer"></a>
-    <a href="#github-statistics"><img src="https://img.shields.io/badge/GitHub%20Statistics-Stats?style=flat&logo=chartdotjs&logoColor=white&color=yellow"alt="GitHub Statistics: View performance metrics"></a>
-    <a href="#project-showcase"><img src="https://img.shields.io/badge/Project%20Showcase-Portfolio?style=flat&logo=rocket&logoColor=white&color=brightgreen" alt="Project Showcase: Highlights of top projects"></a>
+    <a href="#tech-stack"><img src="https://img.shields.io/badge/My%20Tech%20Stack-Tools?style=flat&logo=pcgamingwiki&logoColor=white&color=orange" alt="My Tech Stack: Explore the technologies and tools used by this developer"></a>
+    <a href="#statistics"><img src="https://img.shields.io/badge/GitHub%20Statistics-Stats?style=flat&logo=chartdotjs&logoColor=white&color=yellow"alt="GitHub Statistics: View performance metrics"></a>
+    <a href="#showcase"><img src="https://img.shields.io/badge/Project%20Showcase-Portfolio?style=flat&logo=rocket&logoColor=white&color=brightgreen" alt="Project Showcase: Highlights of top projects"></a>
     <a href="#before-you-go"><img src="https://img.shields.io/badge/Before%20You%20Go-Reminder?style=flat&logo=undertale&logoColor=white&color=red"alt="Before You Go: Important information before you leave"></a>
     <a href="#collab"><img src="https://img.shields.io/badge/Looking%20to%20Collaborate-Collaboration?style=flat&logo=wechat&logoColor=white&color=9333EA"alt="Looking to Collaborate: Connect for professional collaborations"></a>
   </nav>
@@ -37,7 +37,7 @@
 <hr />
 
 <main>
-  <details id="my-tech-stack">
+  <details id="tech-stack">
     <summary>
       <h2>💼 My Tech Stack</h2>
     </summary>
@@ -92,7 +92,7 @@
   </details>
 
   <!-- GITHUB STATISTICS -->
- <details id="github-statistics">
+ <details id="statistics">
     <summary><h2>📊 GitHub Statistics</h2></summary>
     <section align="center">
       <h3>⌚ How I Spend My Time</h3>
@@ -117,7 +117,7 @@
 </details>
   
   <!-- Top Projects -->
-  <details id="project-showcase">
+  <details id="showcase">
     <summary><h2> 🖥️ Project Showcase </h2></summary>
     <section >
       <a href="https://github.com/yet-it-compiles/SLPScribe" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-it-Compiles&repo=SLPScribe&theme=dracula" alt="" /></a> &nbsp; &nbsp;
@@ -132,7 +132,7 @@
   </details>
     
   <!-- Colloboration -->
-  <details id="looking-to-collaborate">
+  <details id="collab">
   <summary><h2>🚀 Ready To Connect?</h2></summary>
   <p>Are you seeking a results-driven professional or a versatile full-stack developer and UX/UI designer? Whether you’re looking to bring an idea to life, solve complex technical challenges, or elevate an existing project, I’m here to help. My expertise lies in seamlessly integrating into a team’s culture, aligning with its goals, and supporting entrepreneurs in transforming their visions into scalable, high-performing, and community-engaging solutions. Here’s what I offer:</p>
   <ul>
