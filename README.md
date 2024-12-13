@@ -4,7 +4,7 @@
   alt="Yet-it-Compiles GitHub Banner">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=FFFFFF00&width=800&lines=I+am+a+software+engineer.;I+am+a+front-end+developer.;I+am+a+UX+designer.;and+I'm+ready+to+work+with+you+to+build+your+dream+application!"
   alt="Dynamic text animation: I am a software engineer. I am a front-end developer. I am a UX designer. I'm ready to work with you to build your dream application!"
-  <section aria-labelledby="profile-quote" id="development-philosophy">
+  <section aria-labelledby="profile-quote" id="philosophy">
     <blockquote align="center">
       <p>"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable them to 'make the invisible visible."</p>
       <footer>~ Hillman Curtis, <cite>UX Design Principles</cite></footer>
