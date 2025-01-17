@@ -97,8 +97,7 @@
     <section align="center">
       <h3>⌚ How I Spend My Time</h3>
       <!--WakaTime-->
-      <h2>Time Programming This Week: 
-        Time Programming This Year: <a href="https://github.com/yourusername"><img src="https://img.shields.io/badge/Wakkatime-613 hrs 08 mins-blue?logo=wakatime" alt="GitHub Badge"></a>
+      <h2>Time Programming This Week: <a href="https://github.com/yet-it-compiles"><img src="https://img.shields.io/badge/Wakkatime-35.28 hrs 46 mins mins-blue?logo=wakatime" alt="GitHub Badge"></a>
       </h2>
       <br/>
       <!--Most Used Languages -->
@@ -106,8 +105,7 @@
       <br/>
       <div style="display: flex; justify-content: center; gap: 20px; margin-top: 10px;">
         <!--🔥 Development Streak -->
-         <img src="https://github-readme-streak-stats.herokuapp.com/?user=yet-it-compiles&theme=radical&hide_border=false" alt="" style="width: 48%; height: 200px;" />
-        <!--🎓 Hat -->
+        <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=yet-it-compiles&theme=radical&hide_border=false" alt="" style="width: 48%; height: 200px;" /> -->
         <img src="https://github-readme-stats.vercel.app/api?username=yet-it-compiles&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="" " />
       </div>
       <br/>      
@@ -126,7 +124,7 @@
   <br>
     <section>
       <a href="https://github.com/yet-it-compiles/JP-Cripps-Bot" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-it-Compiles&repo=JP-Cripps-Bot&theme=dracula" /></a> &nbsp; &nbsp;
-      <a href="https://github.com/yet-it-compiles/NexusFlow" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-it-Compiles&repo=NexusFlow&theme=dracula" /></a> &nbsp; &nbsp;
+      <a href="https://github.com/yet-it-compiles/human-mimicry" target="_blank"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Yet-it-Compiles&repo=human-mimicry&theme=dracula" /></a> &nbsp; &nbsp;
     </section>
     
   </details>
