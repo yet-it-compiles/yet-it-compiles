@@ -6,7 +6,7 @@
   alt="Dynamic text animation: I am a software engineer. I am a front-end developer. I am a UX designer. I'm ready to work with you to build your dream application!"
   <section aria-labelledby="profile-quote" id="philosophy">
     <blockquote align="center">
-      <p>"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable them to 'make the invisible visible."</p>
+      <p>"The goal of a designer is to listen, observe, understand, sympathize, empathize, synthesize, and glean insights that enable them to "make the invisible visible."</p>
       <footer>~ Hillman Curtis, <cite>UX Design Principles</cite></footer>
     </blockquote>
   </section>
